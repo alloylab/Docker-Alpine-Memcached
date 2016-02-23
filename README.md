@@ -1,4 +1,6 @@
-# Memcached Docker container
+# Memcached Docker Container
+
+[![](https://badge.imagelayers.io/alloylab/memcached:latest.svg)](https://imagelayers.io/?images=alloylab/memcached:latest)
 
 > Alpine Lastest  
 > Memcached
