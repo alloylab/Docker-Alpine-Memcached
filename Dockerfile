@@ -1,4 +1,5 @@
 FROM alpine:latest
+MAINTAINER Trevor Ferre <trevor@alloylab.com>
 
 ENV TERM xterm
 
